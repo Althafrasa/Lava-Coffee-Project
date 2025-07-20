@@ -9,7 +9,7 @@ Lava Coffee is a modern and responsive website for a coffee shop, designed to of
 - ✅ Responsive and clean UI design
 - ✅ Hot & Cold coffee menu with descriptions
 - ✅ Online table reservation with 30% OFF
-- ✅ Customer testimonials section (3 girls, 3 boys)
+- ✅ Customer testimonials section 
 - ✅ Newsletter subscription and social media follow section
 - ✅ Fastest door delivery and best quality coffee highlight section
 
